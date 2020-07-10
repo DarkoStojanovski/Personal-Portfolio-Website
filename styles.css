@@ -7,7 +7,7 @@ body {
     margin: 0;
 }
 nav {
-    background-color: fuchsia;
+    background-color: gray;
     color: #ffffff;
     display: flex;
     justify-content: flex-end;
@@ -38,7 +38,7 @@ header::after {
     left: 0;
     right: 0;
     bottom: 0;
-    opacity: 0.8;
+    opacity: 0.6;
 
 }
 header * {
@@ -88,7 +88,7 @@ section p {
 
 
 footer {
-    background-color: fuchsia;
+    background-color: gray;
     color: #ffffff;
     font-size: 20px;
     padding: 10px;
